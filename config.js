@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://blog.rokuzeudon.com',
   pathPrefix: '/',
   title: 'LOGzeudon',
-  subtitle: '????????Web/UI??????????????????',
-  copyright: '�? rokuzeudon 2020',
+  subtitle: '名古屋で活動するWeb/UIデザイナーろくぜうどんのブログです。',
+  copyright: '©︎ rokuzeudon 2020',
   disqusShortname: '',
   postsPerPage: 8,
   googleAnalyticsId: '',
@@ -19,10 +19,6 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Genta Awaya',
