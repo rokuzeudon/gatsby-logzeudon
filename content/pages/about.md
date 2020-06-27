@@ -1,13 +1,34 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: ""
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## 筆者について
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+**ろくぜうどん@rokuzeudon**  
+名古屋で働いているWebデザイナーです。
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+会社員です。  
+副業の範囲で、屋号「[ろくじゅうどデザイン](https://rokujuudo.com/)」を掲げ個人事業主としても活動しています。
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+## このブログについて
+
+当ブログ（LOGzeudon）は、管理人自身による情報発信の練習場であり、Webっぽいことの実験場でもあります。  
+表示崩れや拙い内容をご容赦ください。
+
+## 記事方針
+
+1. 実際に自分が体験したことや感じたことについて書く！…自分で確かめない情報や人の意見をそのまま記事にしない
+1. 誰かの役にたつ…誰か一人にでも喜んでもらえるようなコンテンツにする
+
+なお、当ブログはAmazonアソシエイト・プログラムに参加しており、ブログ内のAmazonリンクを経由した売上の一部が管理人の収益となります。  
+この収益は今のところ月数百〜数千円程度であり、主目的としておらず、あくまで気に入っているガジェットや書籍の紹介のために記事を書いています。
+
+## プライバシーポリシー
+
+当ブログでは、アクセス解析ツール（Google Analytics）を利用したトラフィックデータ収集のためにCookie（クッキー）を利用しています。  
+この情報は匿名で収集され個人を特定するものではありません。このトラフィックデータ収集は、ブラウザ設定でCookieを無効にすることで拒否できます。  
+詳しくは[こちら](https://policies.google.com/technologies/partner-sites?hl=ja)をご確認ください。
+
+当ブログの記事内容は、筆者の主観が多く含まれます。紹介した商品のご購入や各種サービスの利用によって発生したいかなる結果にも一切責任を負いかねますので、予めご了承ください。
