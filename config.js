@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'LOGzeudon',
   subtitle: '名古屋で活動するWeb/UIデザイナーろくぜうどんのブログです。',
-  copyright: '©︎ rokuzeudon 2020',
+  copyright: '© rokuzeudon 2020',
   disqusShortname: '',
   postsPerPage: 8,
   googleAnalyticsId: '',
