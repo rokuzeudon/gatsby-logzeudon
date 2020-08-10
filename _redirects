@@ -1,8 +1,9 @@
 # Redirect default Netlify subdomain to primary domain
-https://loving-shannon-25a41d.netlify.app* https://blog.rokuzeudon.com/:splat 301!
+https://loving-shannon-25a41d.netlify.app/* https://blog.rokuzeudon.com/:splat 301!
 
 # Redirect hatenablog to netlify
 /about /pages/about 301!
+/archive / 301!
 
 # Redirect blog.rokuzeudon.com to rokujuudo.com
 /entry/photoshop-mobile https://rokujuudo.com/howto/photoshop-mobile 301!
