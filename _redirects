@@ -1,5 +1,25 @@
-# Redirect blog.rokuzeudon.com to rokuzeudon.hatenablog.jp
+# Redirect default Netlify subdomain to primary domain
+https://loving-shannon-25a41d.netlify.app* https://blog.rokuzeudon.com/:splat 301!
 
+# Redirect hatenablog to netlify
+/about /pages/about 301!
+
+# Redirect blog.rokuzeudon.com to rokujuudo.com
+/entry/photoshop-mobile https://rokujuudo.com/howto/photoshop-mobile 301!
+/entry/adobe-xd-case https://rokujuudo.com/howto/adobe-xd-case 301!
+/entry/adobe-dimension-materials https://rokujuudo.com/howto/adobe-dimension-materials 301!
+/entry/adobe-demension https://rokujuudo.com/howto/adobe-demension 301!
+/entry/photoshop2018-copy_paste https://rokujuudo.com/howto/photoshop2018-copy_paste 301!
+/entry/adobe-xd https://rokujuudo.com/howto/adobe-xd 301!
+/entry/asset_photoshop https://rokujuudo.com/howto/asset_photoshop 301!
+/entry/photoshop_search https://rokujuudo.com/howto/photoshop_search 301!
+/entry/photoshop_raw https://rokujuudo.com/howto/photoshop_raw 301!
+/entry/aftereffecs_bodymovin https://rokujuudo.com/howto/aftereffecs_bodymovin 301!
+/entry/atom-material-ui https://rokujuudo.com/howto/atom-material-ui 301!
+/entry/20150924/1443091619 https://rokujuudo.com/howto/dreamweaver-imagemap 301!
+/entry/20140705/1404487800 https://rokujuudo.com/howto/illustrator-default-font 301!
+
+# Redirect blog.rokuzeudon.com to rokuzeudon.hatenablog.jp
 /entry/scansnap https://rokuzeudon.hatenablog.jp/entry/scansnap 301!
 /entry/stack-browser https://rokuzeudon.hatenablog.jp/entry/stack-browser 301!
 /entry/sakura-server https://rokuzeudon.hatenablog.jp/entry/sakura-server 301!
@@ -76,26 +96,19 @@
 /entry/myemblem-io https://rokuzeudon.hatenablog.jp/entry/myemblem-io 301!
 /entry/bestfolios https://rokuzeudon.hatenablog.jp/entry/bestfolios 301!
 /entry/peraweb https://rokuzeudon.hatenablog.jp/entry/peraweb 301!
-/entry/photoshop-mobile https://rokuzeudon.hatenablog.jp/entry/photoshop-mobile 301!
 /entry/snow-monkey-wordpress https://rokuzeudon.hatenablog.jp/entry/snow-monkey-wordpress 301!
 /entry/theme-undershirt-sp https://rokuzeudon.hatenablog.jp/entry/theme-undershirt-sp 301!
 /entry/namecard-konitan https://rokuzeudon.hatenablog.jp/entry/namecard-konitan 301!
 /entry/theme-undershirt https://rokuzeudon.hatenablog.jp/entry/theme-undershirt 301!
 /entry/ring-iphone https://rokuzeudon.hatenablog.jp/entry/ring-iphone 301!
-/entry/adobe-xd-case https://rokuzeudon.hatenablog.jp/entry/adobe-xd-case 301!
-/entry/adobe-dimension-materials https://rokuzeudon.hatenablog.jp/entry/adobe-dimension-materials 301!
 /entry/review-of-2017 https://rokuzeudon.hatenablog.jp/entry/review-of-2017 301!
 /entry/suda2017 https://rokuzeudon.hatenablog.jp/entry/suda2017 301!
 /entry/namecard_mismith https://rokuzeudon.hatenablog.jp/entry/namecard_mismith 301!
 /entry/wordbench_kyoto-2017-11 https://rokuzeudon.hatenablog.jp/entry/wordbench_kyoto-2017-11 301!
 /entry/getplan_io https://rokuzeudon.hatenablog.jp/entry/getplan_io 301!
 /entry/wordfes2017 https://rokuzeudon.hatenablog.jp/entry/wordfes2017 301!
-/entry/adobe-demension https://rokuzeudon.hatenablog.jp/entry/adobe-demension 301!
-/entry/photoshop2018-copy_paste https://rokuzeudon.hatenablog.jp/entry/photoshop2018-copy_paste 301!
 /entry/vr_zone_shinjuku https://rokuzeudon.hatenablog.jp/entry/vr_zone_shinjuku 301!
-/entry/adobe-xd https://rokuzeudon.hatenablog.jp/entry/adobe-xd 301!
 /entry/ambient https://rokuzeudon.hatenablog.jp/entry/ambient 301!
-/entry/asset_photoshop https://rokuzeudon.hatenablog.jp/entry/asset_photoshop 301!
 /entry/wordcamp_tokyo_2017 https://rokuzeudon.hatenablog.jp/entry/wordcamp_tokyo_2017 301!
 /entry/typography_sns https://rokuzeudon.hatenablog.jp/entry/typography_sns 301!
 /entry/uicrunch11 https://rokuzeudon.hatenablog.jp/entry/uicrunch11 301!
@@ -109,11 +122,7 @@
 /entry/theme-thumbnail https://rokuzeudon.hatenablog.jp/entry/theme-thumbnail 301!
 /entry/handspinner_square https://rokuzeudon.hatenablog.jp/entry/handspinner_square 301!
 /entry/markdown_slideship https://rokuzeudon.hatenablog.jp/entry/markdown_slideship 301!
-/entry/photoshop_search https://rokuzeudon.hatenablog.jp/entry/photoshop_search 301!
-/entry/photoshop_raw https://rokuzeudon.hatenablog.jp/entry/photoshop_raw 301!
 /entry/atom-git https://rokuzeudon.hatenablog.jp/entry/atom-git 301!
-/entry/aftereffecs_bodymovin https://rokuzeudon.hatenablog.jp/entry/aftereffecs_bodymovin 301!
-/entry/atom-material-ui https://rokuzeudon.hatenablog.jp/entry/atom-material-ui 301!
 /entry/case_asana https://rokuzeudon.hatenablog.jp/entry/case_asana 301!
 /entry/move-article-hatenablog https://rokuzeudon.hatenablog.jp/entry/move-article-hatenablog 301!
 /entry/frontend758-00 https://rokuzeudon.hatenablog.jp/entry/frontend758-00 301!
@@ -213,7 +222,6 @@
 /entry/20151005/1444046357 https://rokuzeudon.hatenablog.jp/entry/20151005/1444046357 301!
 /entry/20151003/1443883846 https://rokuzeudon.hatenablog.jp/entry/20151003/1443883846 301!
 /entry/20150928/1443445167 https://rokuzeudon.hatenablog.jp/entry/20150928/1443445167 301!
-/entry/20150924/1443091619 https://rokuzeudon.hatenablog.jp/entry/20150924/1443091619 301!
 /entry/20150923/1442995996 https://rokuzeudon.hatenablog.jp/entry/20150923/1442995996 301!
 /entry/20150922/1442884497 https://rokuzeudon.hatenablog.jp/entry/20150922/1442884497 301!
 /entry/20150920/1442746676 https://rokuzeudon.hatenablog.jp/entry/20150920/1442746676 301!
@@ -260,5 +268,4 @@
 /entry/20131223/1387728000 https://rokuzeudon.hatenablog.jp/entry/20131223/1387728000 301!
 /entry/20131222/1387639241 https://rokuzeudon.hatenablog.jp/entry/20131222/1387639241 301!
 /entry/20140913/1410535800 https://rokuzeudon.hatenablog.jp/entry/20140913/1410535800 301!
-/entry/20140705/1404487800 https://rokuzeudon.hatenablog.jp/entry/20140705/1404487800 301!
 /entry/20131222/1387704952 https://rokuzeudon.hatenablog.jp/entry/20131222/1387704952 301!
