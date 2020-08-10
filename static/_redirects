@@ -1,5 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
-https://loving-shannon-25a41d.netlify.app/* https://blog.rokuzeudon.com/:splat 301!
+https://loving-shannon-25a41d.netlify.app* https://blog.rokuzeudon.com/:splat 301!
 
 # Redirect hatenablog to netlify
 /about /pages/about 301!
